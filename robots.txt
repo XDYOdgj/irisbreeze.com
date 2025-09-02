@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://irisbreeze.com/sitemap.xml
